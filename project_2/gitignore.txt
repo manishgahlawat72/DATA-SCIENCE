@@ -1,0 +1,31 @@
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Environment variables / secrets
+.env
+
+# Data (optional — uncomment if you don't want to push the dataset)
+# StudentPerformanceFactors.csv
+
+# Saved models (optional — uncomment if you export .pkl/.joblib files)
+# *.pkl
+# *.joblib
